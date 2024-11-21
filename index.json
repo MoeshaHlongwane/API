@@ -1,0 +1,71 @@
+[{
+    "firstName" : "Moesha",
+    "lastName" : "Hlongwane",
+    "favColor" : "Black",
+    "criminalRecord": true,
+    "favLango" : "javascript",
+    "dreamCars" : [{
+        "name":"BMW",
+        "model": "M4",
+        "yearRealesed":"2024"
+    },
+    {
+        "name":"Ford Defender",
+        "model":"V8",
+        "yearRealesed":"2024"
+    }]  
+    
+},
+{
+    "firstName" : "Azola",
+    "lastName" : "Ndoda",
+    "favColor" : "Green",
+    "criminalRecord": true,
+    "favLango" : "python",
+    "dreamCars" : [{
+        "name":"Lamborghini",
+        "model": "truck",
+        "yearRealesed":"2009"
+    },
+    {
+        "name":"Jeep Wrangler",
+        "model":"V8",
+        "yearRealesed":"2023"
+    }]  
+}, 
+{
+    "firstName" : "Sbahle",
+    "lastName" : "Dumani",
+    "favColor" : "Dark Green",
+    "criminalRecord": false,
+    "favLango" : "javascript",
+    "dreamCars" : [{
+        "name":"Bentely",
+        "model": "Bentyaga",
+        "yearRealesed":"2024"
+    },
+    {
+        "name":"Mercedce benz",
+        "model":"GLC",
+        "yearRealesed":"2024"
+    }]  
+},
+{
+    "firstName" : "Aulutho",
+    "lastName" : "Dumani",
+    "favColor" : "Black",
+    "criminalRecord": true,
+    "favLango" : "javascript",
+    "dreamCars" : [{
+        "name":"BMW",
+        "model": "X6",
+        "yearRealesed":"2022"
+    },
+    {
+        "name":"Mercedce benz",
+        "model":"AMG",
+        "yearRealesed":"2021"
+    }]  
+
+}
+]
